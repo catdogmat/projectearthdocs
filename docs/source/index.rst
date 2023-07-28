@@ -9,6 +9,8 @@ We also take no responsibility for any issue that arise, of any sort.
 
    These docs are under active development, some parts may be incomplete.
 
+:getting-started:`Click here to get started`
+
 Contents
 --------
 
