@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Project Earth'
-copyright = ''
+copyright = 'Attribution 3.0 Unported'
 author = 'beano09'
 
 release = '0.1'
