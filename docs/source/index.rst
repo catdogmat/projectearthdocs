@@ -1,17 +1,13 @@
-Welcome to Lumache's documentation!
+Minecraft Earth documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+These docs will help you recreate **Minecraft Earth** using *Project Earth* and other tools.
+We are not affiliated with Minecraft, Mojang, Minecraft Earth, Microsoft, or Project Earth.
+We also take no responsibility for any issue that arise, of any sort.
 
 .. note::
 
-   This project is under active development.
+   These docs are under active development, some parts may be incomplete.
 
 Contents
 --------
